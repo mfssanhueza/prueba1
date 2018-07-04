@@ -1,4 +1,15 @@
+.logo{
+  width:50px;
+  display: inline-block;
+}
 .navbar{
-  color: white;
+  width: 100%;
+  margin-top: 0;
+  font-size: 15px;
+  padding: 1.5vh;
   background-color: #92dec1;
+
+}
+.content{
+  background-image: url(images/cloudy-day.png);
 }
