@@ -19,7 +19,7 @@ body{
 }
 .row.noticias{
   background-color: white;
-  margin-top: 200px;
+  margin-top: 120px;
   text-align: center;
   color: #0c0c40;
 }
@@ -27,18 +27,19 @@ body{
   border: 30px;
 }
 
-.logo{
-  width:50px;
-  display: inline-block;
+.LOGO{
+  max-width: 50%;
 }
-.navbar{
-  width: 100%;
-  margin-top: 0;
-  font-size: 15px;
-  padding: 1.5vh;
-  background-color: #92dec1;
+.FOOTER{
+    background-color:#030d23;
+    margin-bottom: 0;
+    padding: 3%;
+    color: white;
+}
+.MAP{
+  max-height: 10px;
+}
 
-}
-.content{
-  background-image: url(images/cloudy-day.png);
+.FOOTER ul{
+  list-style-type: none;
 }
