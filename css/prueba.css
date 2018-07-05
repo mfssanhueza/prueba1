@@ -1,3 +1,32 @@
+body{
+  background-color: #87CEEB;
+}
+.container{
+  padding: 5%;
+}
+.botones{
+  border-radius: 10%;
+  text-align: center;
+  background-color: #b1d3ff;
+}
+.glyphicon{
+  font-size: 150%;
+  color:#0c0c40;
+}
+.img-CAROUSEL{
+  text-align: center;
+  width:40%;
+}
+.row.noticias{
+  background-color: white;
+  margin-top: 200px;
+  text-align: center;
+  color: #0c0c40;
+}
+.noticias{
+  border: 30px;
+}
+
 .logo{
   width:50px;
   display: inline-block;
