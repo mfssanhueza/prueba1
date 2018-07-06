@@ -1,5 +1,10 @@
 body{
   background-color: #87CEEB;
+  padding-top: 80px;
+}
+.carousel, .carousel .item{
+  height: 400px;
+  width: 100%;
 }
 .container{
   padding: 5%;
@@ -13,10 +18,7 @@ body{
   font-size: 150%;
   color:#0c0c40;
 }
-.img-CAROUSEL{
-  text-align: center;
-  width:40%;
-}
+
 .row.noticias{
   background-color: white;
   margin-top: 120px;
@@ -28,7 +30,7 @@ body{
 }
 
 .LOGO{
-  max-width: 50%;
+  width: 50%;
 }
 .FOOTER{
     background-color:#030d23;
